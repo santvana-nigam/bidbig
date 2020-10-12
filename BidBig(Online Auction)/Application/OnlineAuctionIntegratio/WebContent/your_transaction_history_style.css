@@ -1,0 +1,26 @@
+span{
+	color:  #e0ac1c;
+}
+
+h1
+{
+    color: #ffffff;
+}
+
+header{
+	text-align: center;
+	background-color:#33383b ;
+	background-color: #2c292f;
+}
+table,td{
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    border-collapse: collapse;
+    width : 50%;
+    height: 50px;
+}
+.size{
+    font-size: 200%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}@charset "ISO-8859-1";

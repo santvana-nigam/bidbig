@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+.container {
+    height: 25%;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+}
+  span{
+	color:  #e0ac1c;
+}
+
+h1
+{
+    color: #ffffff;
+}
+
+header{
+	text-align: center;
+	background-color:#33383b ;
+	background-color: #2c292f;
+}

@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+header{
+	text-align: center;
+	background-color:#33383b ;
+	background-color: #2c292f;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 2px solid;
+    background-color: #efe9f4;
+    padding: 60px;
+    text-align: center;
+  }
+  
+  span{
+	color:  #e0ac1c;
+}
+
+h1
+{
+    color: #ffffff;
+}
+.number
+{
+    width: 30%;
+    border: 2px solid;
+
+}
